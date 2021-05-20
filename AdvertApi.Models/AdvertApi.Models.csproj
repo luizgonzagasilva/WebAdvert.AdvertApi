@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>AdvertApi.Models.lg</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>L. G. Junior</Authors>
+    <Company>QuantumData</Company>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
